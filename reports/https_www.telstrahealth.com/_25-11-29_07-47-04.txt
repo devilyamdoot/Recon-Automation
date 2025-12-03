@@ -1,0 +1,5 @@
+# Dirsearch started Sat Nov 29 07:47:41 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://www.telstrahealth.com -x 403,404,500
+
+301    98B   https://www.telstrahealth.com/%3f/    -> REDIRECTS TO: /
+301    98B   https://www.telstrahealth.com/about    -> REDIRECTS TO: /about/
+301    98B   https://www.telstrahealth.com/About    -> REDIRECTS TO: /about/

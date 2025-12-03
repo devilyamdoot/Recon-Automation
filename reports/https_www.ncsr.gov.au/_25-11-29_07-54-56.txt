@@ -1,0 +1,115 @@
+# Dirsearch started Sat Nov 29 08:25:26 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://www.ncsr.gov.au -t 5 -x 403,404,500 -e html,php,aspx,js
+
+200    30KB  https://www.ncsr.gov.au/.action
+200    32KB  https://www.ncsr.gov.au/.admin/
+400     7KB  https://www.ncsr.gov.au/.angular-cli.json
+200     0B   https://www.ncsr.gov.au/.apport-ignore.xml
+400     7KB  https://www.ncsr.gov.au/.babel.json
+200     0B   https://www.ncsr.gov.au/.babelrc.js
+400     7KB  https://www.ncsr.gov.au/.bower.json
+400     7KB  https://www.ncsr.gov.au/.brackets.json
+200    32KB  https://www.ncsr.gov.au/.build/
+200    32KB  https://www.ncsr.gov.au/.buildpath/
+200    32KB  https://www.ncsr.gov.au/.bundle/
+200    32KB  https://www.ncsr.gov.au/.cache/
+200    32KB  https://www.ncsr.gov.au/.capistrano/
+200    32KB  https://www.ncsr.gov.au/.cfg/
+400     7KB  https://www.ncsr.gov.au/.codeclimate.json
+200    32KB  https://www.ncsr.gov.au/.components/
+200    32KB  https://www.ncsr.gov.au/.cpan/
+200     0B   https://www.ncsr.gov.au/.css
+400     7KB  https://www.ncsr.gov.au/.csscomb.json
+200     0B   https://www.ncsr.gov.au/.db.xml
+400     7KB  https://www.ncsr.gov.au/.deployment-config.json
+200    32KB  https://www.ncsr.gov.au/.docker/
+400     7KB  https://www.ncsr.gov.au/.esdoc.json
+200     0B   https://www.ncsr.gov.au/.eslintrc.js
+400     7KB  https://www.ncsr.gov.au/.eslintrc.json
+400     7KB  https://www.ncsr.gov.au/.fontcustom-manifest.json
+400     7KB  https://www.ncsr.gov.au/.geppetto-rc.json
+400     7KB  https://www.ncsr.gov.au/.git.json
+400     7KB  https://www.ncsr.gov.au/.goxc.json
+400     7KB  https://www.ncsr.gov.au/.groc.json
+200    32KB  https://www.ncsr.gov.au/.gradle
+200    32KB  https://www.ncsr.gov.au/.grunt
+200    32KB  https://www.ncsr.gov.au/.hg/
+200    32KB  https://www.ncsr.gov.au/.idea/
+200     0B   https://www.ncsr.gov.au/.js
+400     7KB  https://www.ncsr.gov.au/.jscs.json
+400     7KB  https://www.ncsr.gov.au/.jscsrc.json
+400     7KB  https://www.ncsr.gov.au/.jsdoc.json
+200   102B   https://www.ncsr.gov.au/.json
+200    32KB  https://www.ncsr.gov.au/.komodotools/
+200    32KB  https://www.ncsr.gov.au/.local/
+400     7KB  https://www.ncsr.gov.au/.markdownlint.json
+200    32KB  https://www.ncsr.gov.au/.mc/
+200    32KB  https://www.ncsr.gov.au/.metadata/
+200    32KB  https://www.ncsr.gov.au/.modman/
+200     0B   https://www.ncsr.gov.au/.mongorc.js
+200    32KB  https://www.ncsr.gov.au/.mozilla/
+200    32KB  https://www.ncsr.gov.au/.npm/
+200    32KB  https://www.ncsr.gov.au/.pac/
+200   450KB  https://www.ncsr.gov.au/.pdf
+200     0B   https://www.ncsr.gov.au/.phpcs.xml
+200    32KB  https://www.ncsr.gov.au/.pki/
+200     0B   https://www.ncsr.gov.au/.png
+200     0B   https://www.ncsr.gov.au/.postcssrc.js
+200     0B   https://www.ncsr.gov.au/.prettierrc.js
+400     7KB  https://www.ncsr.gov.au/.prettierrc.json
+200     0B   https://www.ncsr.gov.au/.project.xml
+400     7KB  https://www.ncsr.gov.au/.projections.json
+200    32KB  https://www.ncsr.gov.au/.recommenders/
+400     7KB  https://www.ncsr.gov.au/.release.json
+400     7KB  https://www.ncsr.gov.au/.remote-sync.json
+400     7KB  https://www.ncsr.gov.au/.repo-metadata.json
+200    32KB  https://www.ncsr.gov.au/.rsync_cache/
+200    32KB  https://www.ncsr.gov.au/.ssh/
+400     7KB  https://www.ncsr.gov.au/.stylelintrc.json
+200    32KB  https://www.ncsr.gov.au/.svn/
+200     0B   https://www.ncsr.gov.au/.template-lintrc.js
+200    32KB  https://www.ncsr.gov.au/.temp/
+200    32KB  https://www.ncsr.gov.au/.tmp/
+200    32KB  https://www.ncsr.gov.au/.tox/
+200    32KB  https://www.ncsr.gov.au/.vagrant/
+200    15B   https://www.ncsr.gov.au/.version
+200    32KB  https://www.ncsr.gov.au/.vscode/
+200     0B   https://www.ncsr.gov.au/.xml
+400     7KB  https://www.ncsr.gov.au/.yo-rc.json
+400     7KB  https://www.ncsr.gov.au/\..\..\..\..\..\..\..\..\..\etc\passwd
+200    31KB  https://www.ncsr.gov.au/about-us
+200    35KB  https://www.ncsr.gov.au/contact
+200     0B   https://www.ncsr.gov.au/contact.js
+200    35KB  https://www.ncsr.gov.au/contact.php
+200    35KB  https://www.ncsr.gov.au/contact.aspx
+200     0B   https://www.ncsr.gov.au/errors.js
+200     7KB  https://www.ncsr.gov.au/errors
+200     7KB  https://www.ncsr.gov.au/errors.php
+200     7KB  https://www.ncsr.gov.au/errors.asp
+200     7KB  https://www.ncsr.gov.au/errors.tpl
+200     7KB  https://www.ncsr.gov.au/errors.log
+200     7KB  https://www.ncsr.gov.au/errors.aspx
+200     7KB  https://www.ncsr.gov.au/errors.txt
+200     7KB  https://www.ncsr.gov.au/errors/
+302     1B   https://www.ncsr.gov.au/faq    -> REDIRECTS TO: https://www.ncsr.gov.au/about-us/frequently-asked-questions.html
+302     1B   https://www.ncsr.gov.au/faq.php    -> REDIRECTS TO: https://www.ncsr.gov.au/about-us/frequently-asked-questions.php.html
+302     1B   https://www.ncsr.gov.au/faq.aspx    -> REDIRECTS TO: https://www.ncsr.gov.au/about-us/frequently-asked-questions.aspx.html
+302     1B   https://www.ncsr.gov.au/faq.js    -> REDIRECTS TO: https://www.ncsr.gov.au/about-us/frequently-asked-questions.js
+302     1B   https://www.ncsr.gov.au/media    -> REDIRECTS TO: https://www.ncsr.gov.au/about-us/news-and-media.html
+302     1B   https://www.ncsr.gov.au/media.tar    -> REDIRECTS TO: https://www.ncsr.gov.au/about-us/news-and-media.tar.html
+302     1B   https://www.ncsr.gov.au/media.tar.bz2    -> REDIRECTS TO: https://www.ncsr.gov.au/about-us/news-and-media.tar.bz2.html
+302     1B   https://www.ncsr.gov.au/media.tar.gz    -> REDIRECTS TO: https://www.ncsr.gov.au/about-us/news-and-media.tar.gz.html
+302     1B   https://www.ncsr.gov.au/media.zip    -> REDIRECTS TO: https://www.ncsr.gov.au/about-us/news-and-media.zip.html
+302     1B   https://www.ncsr.gov.au/media/    -> REDIRECTS TO: https://www.ncsr.gov.au/about-us/news-and-media.html
+302     1B   https://www.ncsr.gov.au/privacy    -> REDIRECTS TO: https://www.ncsr.gov.au/about-us/privacy-policy.html
+302     1B   https://www.ncsr.gov.au/privacy.php    -> REDIRECTS TO: https://www.ncsr.gov.au/about-us/privacy-policy.php.html
+302     1B   https://www.ncsr.gov.au/privacy.aspx    -> REDIRECTS TO: https://www.ncsr.gov.au/about-us/privacy-policy.aspx.html
+302     1B   https://www.ncsr.gov.au/privacy.js    -> REDIRECTS TO: https://www.ncsr.gov.au/about-us/privacy-policy.js
+200     8KB  https://www.ncsr.gov.au/search
+200     0B   https://www.ncsr.gov.au/search.js
+200     8KB  https://www.ncsr.gov.au/search.php
+200     8KB  https://www.ncsr.gov.au/search.aspx
+200     1KB  https://www.ncsr.gov.au/sitemap.xml
+302     0B   https://www.ncsr.gov.au/support    -> REDIRECTS TO: https://outlook.office365.com/owa/calendar/TelstraHealthNCSR@health.telstra.com/bookings/
+302     0B   https://www.ncsr.gov.au/support/    -> REDIRECTS TO: https://outlook.office365.com/owa/calendar/TelstraHealthNCSR@health.telstra.com/bookings/
+200     8KB  https://www.ncsr.gov.au/tests
+200     8KB  https://www.ncsr.gov.au/tests/
