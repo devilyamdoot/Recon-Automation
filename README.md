@@ -1,16 +1,27 @@
-# Recon Automation Tool
+# Recon Automation 🚀
 
-Simple automated reconnaissance script by **Devil Yamdoot**.
+Automated reconnaissance tools and commands used for Bug Bounty on Atlassian programs.
 
-## 🧰 Tools Used
-- [Subfinder] – subdomain enumeration
-- [Nuclei] – vulnerability scanning using templates
+### 🔍 Tools Used:
+- Subfinder
+- Amass
+- Naabu
+- HTTPX / httprobe
+- Waybackurls
+- Gau
+- Nuclei (optional later)
 
-## 🔧 Requirements
-Make sure these tools are installed on your system (Kali recommended):
+### 🧩 Workflow:
+1️⃣ Subdomain Enumeration  
+2️⃣ Alive Domain Filtering  
+3️⃣ Port Scanning  
+4️⃣ JS File Extraction  
+5️⃣ Endpoint Discovery  
+6️⃣ Vulnerability Pattern Checks
 
-```bash
-sudo apt install subfinder nuclei -y
+### 🎯 Target:
+Atlassian Bug Bounty Program (Bugcrowd)
 
-chmod +x recon.sh
-./recon.sh target.com
+### 📌 Status:
+🔄 Work in progress — Updating daily during recon sessions.
+
